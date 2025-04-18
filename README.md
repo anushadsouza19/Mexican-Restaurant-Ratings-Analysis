@@ -93,7 +93,7 @@ Baja California hosts the largest number of restaurants (84), while Yucatan and 
 **4. What cuisines are most preferred based on consumer demographics?**  
 Mexican cuisine is the most popular across all consumer profiles, followed by American cuisine.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   
 
 ### 🥂 **Hospitality Insights**
 
