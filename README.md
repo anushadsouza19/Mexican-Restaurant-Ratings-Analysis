@@ -77,7 +77,7 @@ Across all three states, the majority of consumers are young adults under 30 yea
 **4. What percentage of consumers are smokers or non-smokers in each city?**  
 Most consumers in all four cities are non-smokers. Merida has a 100% non-smoking population, while Tijuana has the highest proportion of smokers, accounting for 25%.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 🍽️ **Dining Insights**
 
@@ -93,7 +93,7 @@ Baja California hosts the largest number of restaurants (84), while Yucatan and 
 **4. What cuisines are most preferred based on consumer demographics?**  
 Mexican cuisine is the most popular across all consumer profiles, followed by American cuisine.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 🥂 **Hospitality Insights**
 
@@ -109,7 +109,7 @@ Among restaurants in Acapulco, Merida, Tijuana and Valladolid, 66.92% do not ser
 **4. How does alcohol service influence consumer satisfaction ratings?**  
 Non-drinkers gave 303 "highly satisfactory" ratings, 289 "satisfactory," and 170 "unsatisfactory." Consumers at wine-and-beer-serving restaurants gave 146 "highly satisfactory" ratings. Full bar establishments received 37 "highly satisfactory" ratings, 27 "satisfactory," and 16 "unsatisfactory."
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 👥 **Behavioral Insights**
 
@@ -125,7 +125,7 @@ In Baja California, 31 are social drinkers, 28 casual, and 18 abstemious. Guerre
 **4. What are the most common occupations among consumers in each state?**  
 In Baja California, students make up 93% of the consumer population. Yucatan has an even mix of students and employed individuals. In Guerrero, 94% are students, with a small percentage being employed.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 ### 🏆 **Review Insights**
 **1. Which restaurants have the highest food ratings?**
@@ -137,7 +137,7 @@ Mision 19 leads in service satisfaction, followed by Telephonica Gastro Park and
 **3. Which restaurants have the highest overall ratings?**
 Mision 19 and Telephonica Gastro Park top the list, with the latter receiving 30 "highly satisfactory" ratings. Caesar's Restaurant earned 24, Tocas El Franc 28, and Restaurant La Chalita follows with 20.
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
 
 ![Screenshot 2025-04-18 133950](https://github.com/user-attachments/assets/9f895e46-08f0-48be-839d-efdaa9e27fcb)
 
